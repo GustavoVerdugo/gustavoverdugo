@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gustavoverdugo" alt="gustavoverdugo" /></a> </p>
 
-- 🔭 I’m currently working on <a href="https://github.com/rokket-labs">Rokket Labs templates</a>
+- 🔭 I’m currently working on <a href="https://github.com/corelabs-cl">Corelabs</a>
 
 - 🌱 I’m currently learning **NestJS and Python**
 
