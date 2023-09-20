@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gustavoverdugo" alt="gustavoverdugo" /></a> </p>
 
-- 🔭 I’m currently working on [Corelabs](https://www.corelabs.cl/)
-
+- 🔭 I’m CEO of [Corelabs](https://www.corelabs.cl/)
+  
 - 🌱 I’m currently learning **Web3**
 
-- 👨‍💻 All of my projects are available at [https://www.corelabs.cl/](https://www.corelabs.cl/)
+- 👨‍💻 All of my projects are available at [https://www.maxyvdev.com/](https://www.maxyvdev.com/)
 
 - 💬 Ask me about **React, React Native, NodeJS**
 
