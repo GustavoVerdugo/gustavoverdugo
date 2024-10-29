@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gustavoverdugo" alt="gustavoverdugo" /></a> </p>
 
-- 🔭 I’m CEO of [Corelabs](https://www.corelabs.cl/)
+<!-- - 🔭 I’m CEO of [Corelabs](https://www.corelabs.cl/) -->
   
 - 🌱 I’m currently learning **Web3**
 
